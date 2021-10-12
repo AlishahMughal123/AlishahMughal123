@@ -24,6 +24,3 @@ Here are some ideas to get you started:
 
 
 
-# DAY 1 (HTML)
-
-- H1 , p , 
