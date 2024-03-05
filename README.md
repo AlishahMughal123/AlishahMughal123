@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishahMughal123&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?AlishahMughal123=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlishahMughal123)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlishahMughal123/AlishahMughal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
