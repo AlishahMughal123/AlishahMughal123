@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlishahMughal123&show_icons=true&theme=radical)
+![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlishahMughal123&show_icons=true&theme=radical) [![Aly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlishahMughal123)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishahMughal123&hide_progress=true)
 
